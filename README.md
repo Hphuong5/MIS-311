@@ -1,11 +1,12 @@
 # MIS-311
-Introduction to Business Analytics
 # 📊 Student Exam Performance — Exploratory Data Analysis
 
 > **MIS 311 – Introduction to Business Analytics**
-> Eastern International University (EIU)
->  Nguyen Hoang Phuong 
+> - Eastern International University (EIU)
+> - Nguyen Hoang Phuong 
 ---
+
+<img width="1024" height="1024" alt="large-exam-hall-stockcake" src="https://github.com/user-attachments/assets/29135107-86bf-4f16-9c18-de8c5a02ca21" />
 
 ## 📌 Project Overview
 
