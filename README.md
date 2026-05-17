@@ -16,10 +16,11 @@ Two central findings emerge from the combined analysis:
 1.	Study hours per day is the strongest controllable predictor of exam outcomes. Students who study 6 or more hours per day achieve a 100% pass rate, compared to just 6.4% for those who study under one hour.
 2.	Gender has virtually no effect on exam scores. However, social media usage carries a significant negative correlation of r = −0.246 with final exam score — making it the most harmful measurable behavioural variable in the dataset.
 These findings provide actionable, evidence-based guidance for educators, counsellors, and students seeking to improve academic outcomes.
-
 ---
-## 🔍 Context
+
+## 🔍 Context for the data
 Student academic performance is a central concern for educational institutions worldwide. While raw intelligence is often assumed to be the primary driver of exam success, a growing body of research suggests that behavioural factors such as study habits, sleep patterns, and digital media consumption play an equally important role. This case study uses a structured dataset to test that hypothesis and surface evidence-based guidance for educators and students.
+
 ---
 ## 🗂️ Dataset Description
 
