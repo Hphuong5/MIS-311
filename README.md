@@ -194,20 +194,24 @@ In this project, Excel was useful for a quick data overview and pivot tables. Bu
 
 ```
 MIS311/
-├── README.md               ← You are here
-├── data/
-│   └── student_data.csv    ← Dataset
-├── notebooks/
-│   └── EDA_Analysis.ipynb  ← Python EDA notebook
-├── excel/
-│   └── EDA_Analysis.xlsx   ← Excel analysis & PivotTables
-└── report/
-    └── MIS311_EDA_Report.docx ← Full written report
+├── 13_Student_Exam_Performance.xlsx   ← Raw dataset (10,000 students, 23 columns)
+├── eda.py                             ← Python EDA script (local run)
+├── MIS311_EDA_Colab.py                ← Python EDA script (Google Colab version)
+├── requirements.txt                   ← Python dependencies
+├── output_figures/
+│   ├── fig1_gender.png                ← Pivot chart: outcomes by gender
+│   ├── fig2_study_hours.png           ← Pivot chart: outcomes by study hours
+│   ├── fig3_histogram.png             ← Score distribution histogram
+│   ├── figA_heatmap.png               ← Correlation heatmap
+│   ├── figB_scatter.png               ← Scatter plot: study hours vs score
+│   ├── figC_boxplot.png               ← Box plot: score by family background
+│   └── figD_grade_dist.png            ← Stacked bar: grade distribution
+└── README.md  ← You are here
 ```
-
 ---
 
 ## 👤 Author
 
 **Nguyen Hoang Phuong**
 MIS 311, Introduction to Business Analytics
+Eastern International University
